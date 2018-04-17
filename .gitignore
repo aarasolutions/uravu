@@ -1,0 +1,15 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea
+*.iml
+.idea/**/compiler.xml
+.idea/**/misc.xml
+.idea/**/workspace.xml
+.idea/**/modules.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+**/target/
