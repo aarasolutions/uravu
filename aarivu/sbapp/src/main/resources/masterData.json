@@ -1,0 +1,96 @@
+{
+  "locList": [
+    {
+      "value": "Coimbatore",
+      "level": "CITY",
+      "description": "Manchester of Tamil Nadu",
+      "parent": {
+        "value": "Tamil Nadu",
+        "level": "STATE",
+        "description": "Workpalace of Tamil Nadu",
+        "parent": {
+          "value": "India",
+          "level": "COUNTRY",
+          "description": "Peaceful Nation of the world",
+          "parent": {
+            "value": "Asia",
+            "level": "CONTINENT",
+            "description": "Biggest of all"
+          }
+        }
+      }
+    },
+    {
+      "value": "Tirupur",
+      "level": "CITY",
+      "description": "Manchester of Tamil Nadu",
+      "parent": {
+        "value": "Tamil Nadu",
+        "level": "STATE",
+        "description": "Workpalace of Tamil Nadu",
+        "parent": {
+          "value": "India",
+          "level": "COUNTRY",
+          "description": "Peaceful Nation of the world",
+          "parent": {
+            "value": "Asia",
+            "level": "CONTINENT",
+            "description": "Biggest of all"
+          }
+        }
+      }
+    }
+  ],
+  "casteList": [
+    {
+      "value": "Arai",
+      "level": "NAADU",
+      "description": "Arai (அரை) Nadu - Kovai (கோவை) & Avanasi (அவினாசி) Taluks",
+      "parent": {
+        "value": "Kongu Vellalar",
+        "level": "JAATHI_ULPRIVU",
+        "description": "Region of Kongu & near by",
+        "parent": {
+          "value": "Maruthuvar",
+          "level": "JAATHI",
+          "description": "Maruthuvar jaathi",
+          "parent": {
+            "value": "Saivam",
+            "leve;": "SAMAYAM",
+            "description": "Finest",
+            "parent": {
+              "value": "Hindusim",
+              "leve;": "MATHAM",
+              "description": "Finest"
+            }
+          }
+        }
+      }
+    },
+    {
+      "value": "Varakka",
+      "level": "NAADU",
+      "description": "Varakka (வாரக்க) Nadu - Palladam (பல்லடம்) & Pollachi (பொள்ளச்சி) Taluks",
+      "parent": {
+        "value": "Kongu Vellalar",
+        "level": "JAATHI_ULPRIVU",
+        "description": "Region of Kongu & near by",
+        "parent": {
+          "value": "Maruthuvar",
+          "level": "JAATHI",
+          "description": "Maruthuvar jaathi",
+          "parent": {
+            "value": "Saivam",
+            "leve;": "SAMAYAM",
+            "description": "Finest",
+            "parent": {
+              "value": "Hindusim",
+              "leve;": "MATHAM",
+              "description": "Finest"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
